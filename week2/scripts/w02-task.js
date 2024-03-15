@@ -30,7 +30,9 @@ food.shift();
 foodElement.innerHTML += `<br>${food}`;
 
 food.pop();
-foodElement.innerHTML += `<br>${food}`;
+foodElement.innerHTML += `<br>${food}<br><br><br>`;
+
+
 
 
 /* W02-Task - Profile Home Page */
