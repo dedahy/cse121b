@@ -12,7 +12,7 @@ const nameElement = document.getElementById('name');
 
 const foodElement = document.getElementById('food');
 
-const yearElement = document.querySelector('#year');
+const yearElement = document.querySelector('year');
 
 /* W02-Task - Profile Home Page */
 
